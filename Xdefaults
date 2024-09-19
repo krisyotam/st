@@ -1,0 +1,33 @@
+/* Transparency (0-1): */
+st.alpha: 0.92
+st.alphaOffset: 0.3
+
+/* Set a default font and font size as below: */
+st.font: Monospace-11
+
+! st.termname: st-256color
+! st.borderpx: 2
+
+!! Set the background, foreground, and cursor colors as below:
+
+!! krisyotam:
+*.color0: #f0eee4  /** Background (light off-white) **/
+*.color1: #8b0000  /** Errors (dim red) **/
+*.color2: #000000  /** Default text (black) **/
+*.color3: #add8e6  /** Highlight (light blue) **/
+*.color4: #000000  /** Default text (black) **/
+*.color5: #000000  /** Default text (black) **/
+*.color6: #000000  /** Default text (black) **/
+*.color7: #000000  /** Default text (black) **/
+*.color8: #4c4c4c  /** Comments (different grey) **/
+*.color9: #8b0000  /** Errors (dim red) **/
+*.color10: #000000 /** Default text (black) **/
+*.color11: #add8e6 /** Highlight (light blue) **/
+*.color12: #000000 /** Default text (black) **/
+*.color13: #000000 /** Default text (black) **/
+*.color14: #000000 /** Default text (black) **/
+*.color15: #000000 /** Default text (black) **/
+*.background: #f0eee4 /** Background (light off-white) **/
+*.foreground: #000000 /** Default text (black) **/
+*.cursorColor: #000000 /** Cursor (black) **/
+
