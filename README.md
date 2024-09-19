@@ -85,5 +85,5 @@ Note that when you run `wal`, it will negate the transparency of existing window
 
 ## Contact
 
-- Luke Smith <krisyotam@protonmail.com>
+- Kris Yotam <krisyotam@protonmail.com>
 - [https://krisyotam.com](https://krisyotam.com)
